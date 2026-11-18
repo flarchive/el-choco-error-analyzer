@@ -1,0 +1,9 @@
+/js/node_modules/
+/vendor/
+/dist/
+/INSTALL-DE.md
+/INSTALL-EN.md
+/UPDATE-DE.md
+/UPDATE-EN.md
+/resources/
+/js/dist/*.map
