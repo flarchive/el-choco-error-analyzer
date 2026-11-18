@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of el-choco/error-analyzer.** Not for installation: use [Packagist](https://packagist.org/packages/el-choco/error-analyzer) or the [upstream repository](https://github.com/el-choco/error-analyzer).
 
-**1** versions archived · Latest: [`v0.1.0-alpha.1`](https://github.com/flarchive/el-choco-error-analyzer/tree/archive/v0.1.0-alpha.1) · License: `MIT` · Flarum: `^2.0.2`
+**0** versions archived · Latest: [`v0.1.0-alpha.2`](https://github.com/flarchive/el-choco-error-analyzer/tree/archive/v0.1.0-alpha.2) · License: `MIT` · Flarum: `^2.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v0.1.0-alpha.1` | 2026-11-18 | `^2.0.2` | [Browse](https://github.com/flarchive/el-choco-error-analyzer/tree/archive/v0.1.0-alpha.1) |
+| — | — | — | — |
 
 Catalog entry: [packages/el-choco-error-analyzer.json](https://github.com/flarchive/archive-index/blob/main/packages/el-choco-error-analyzer.json)
 
